@@ -1,7 +1,8 @@
 body {
     background-image: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
 }
-   {
+form {
+    width: 30%;
     margin: auto;
     margin-top: auto%;
     margin-bottom: auto;
@@ -45,8 +46,6 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    vertical-align: bottom;
-
 
 }
 
